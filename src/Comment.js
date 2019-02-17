@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react';
 
-export class EinsteinQuoteComponent extends Component {
+export class Comment extends Component {
 	render() {
 		return (
 			<div className="bar" id="einstein">
